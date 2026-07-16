@@ -96,7 +96,7 @@
 - https://chat.deepseek.com 提供技术建议与代码优化
 - [Font Awesome](https://fontawesome.com) 提供高质量图标库
 
-## 📱 联系方式
+## 💬 讨论群聊
 
 - [Telegram](https://t.me/WT_Permission)
 
